@@ -1,0 +1,3 @@
+[submodule "cloudfront_tools"]
+	path = cloudfront_tools
+	url = git@github.com:horoama/cloudfront_tools.git
